@@ -1,2 +1,3 @@
 # Mathss-Shopping-Cart
-Passando o Projeto da Trybe
+
+Link do projeto: https://mathsf-shopping-cart.netlify.app/
